@@ -15,7 +15,7 @@ Install Docker engine
 install docker on linux by following [those steps](https://docs.docker.com/engine/install/ubuntu/)
 * note: On linux you might need to use ``` sudo ``` each time you run a docker command
 
-#### Mac
+#### For Mac
 Install docker on mac by installing [Docker Desktop]
 
 ### 2. Git pull this repo
