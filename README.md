@@ -54,3 +54,7 @@ Now you should be able to go to /root/rocket_code and see the project. You can t
 ``` docker image rm [IMAGE ID] ``` Remove the image with IMAGE ID
 
 ``` docker-compose up -d --build ``` start service but by building the images again
+
+## Other useful informations
+
+Currently, the docker image does not support cross compilation of the project. You will need to set it up manually inside the container if you want to do that
